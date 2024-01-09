@@ -1,0 +1,143 @@
+{
+  "aboutMe": "I am a seasoned professional with a robust background in development, design, and testing across a multitude of projects. My dedication to leadership is evident in my commitment to guiding my team towards producing top-tier code. With a proven track record of collaborating effectively within multidisciplinary and multicultural environments, I excel at employing agile and shape up methodologies to drive project success. I am enthusiastic about the opportunity to bring my wealth of experience and skill set to your team, and I am confident that my contributions will be valuable.",
+  "experience": [
+    {
+      "name": "FactoryFix",
+      "url": "https://factoryfix.com/",
+      "position": "Engineering Manager",
+      "dates": "January 2023 - September 2023",
+      "company_type": "Software, Sourcing, and HR Tech company",
+      "job_description": "Manage a team of 5 developers to build new features for the company and maintain the existing ones using shape up methodology.",
+      "tasks": [
+        "lead and manage a team of engineers, providing guidance, mentoring and support.",
+        "fostere a positive and collaborative team culture, promoting innovation and continuous improvement",
+        "Facilitate effective communication within the engineering team and with other departments",
+        "Work with the product team to define the roadmap and priorities for the engineering team",
+        "Ensure projects are completed on time, within scope, and meet quality standards"
+      ],
+      "tools": [
+        "GCP: firestore, CloudRun, CloudStorage, etc.",
+        "Mixpanel",
+        "VueJs",
+        "NodeJs",
+        "Typescript",
+        "Terraform",
+        "NestJS",
+        "Docker",
+        "Github Actions",
+        "Linear",
+        "Shape Up",
+        "Stripe",
+        "Twilio",
+        "Sengrid",
+        "Maxio"
+      ]
+    },
+    {
+      "name": "FactoryFix",
+      "url": "https://factoryfix.com/",
+      "position": "Team Lead",
+      "dates": "March 2022 - january 2023",
+      "company_type": "Software, Sourcing, and HR Tech company",
+      "job_description": "Lead a team of 6 developers to build new features for the company and maintain the existing ones using shape up methodology.",
+      "tasks": [
+        "Lead and manage a team of engineers, providing guidance, mentoring and support.",
+        "Facilitate effective communication within the engineering team and with other departments",
+        "Conducte regular team meetings to enhance communication and ensure alignment with project goals.",
+        "Participate in code reviews and development of new features."
+      ],
+      "tools": [
+        "GCP: firestore, firebase, CloudRun, CloudStorage, etc.",
+        "Mixpanel",
+        "VueJs",
+        "NodeJs",
+        "Typescript",
+        "Terraform",
+        "NestJS",
+        "Docker",
+        "MySql",
+        "Github Actions",
+        "Linear",
+        "Shape Up"
+      ]
+    },
+    {
+      "name": "GlobalLogic - eCommerce",
+      "url": "https://www.globallogic.com/",
+      "position": "Team Lead - Tech Lead",
+      "dates": "January 2019 - March 2022",
+      "company_type": "A digital product engineering company. We integrate experience design and complex engineering to help our clients imagine what's possible and accelerate their transition into tomorrow's digital businesses. Working directly for an important eCommerce with presence in several continents.",
+      "job_description": "Lead a team of 5 developers and 2 qas to build new applications for the company and maintain the existing ones.",
+      "tasks": [
+        "Lead and manage a team of engineers and qas, providing guidance, mentoring and support.",
+        "Facilitate effective communication within the engineering team and with other departments",
+        "Conducte regular team meetings to enhance communication and ensure alignment with project goals.",
+        "Work with the product team to define the roadmap and priorities",
+        "Participate in code reviews and development of new features."
+      ],
+      "tools": [
+        "AWS: S3, SQS, SNS, IAM, Route53, Api Gateway, DynamoDB, Lambda, etc.",
+        "Node Js",
+        "React",
+        "React Native",
+        "Javascript",
+        "Typescript",
+        "Alexa Skills",
+        "MySql",
+        "Github Actions",
+        "Jira",
+        "Confluence",
+        "Agile"
+      ]
+    },
+    {
+      "name": "GlobalLogic - eCommerce",
+      "url": "https://www.globallogic.com/",
+      "position": "Senior Developer",
+      "dates": "January 2011 - January 2019",
+      "company_type": "A digital product engineering company. We integrate experience design and complex engineering to help our clients imagine what's possible and accelerate their transition into tomorrow's digital businesses. Working directly for an important eCommerce with presence in several continents.",
+      "job_description": "Development, testing, implementation and maintenance of applications for the company and its clients.",
+      "tasks": [
+        "Development of lot of services from conception to successful deployment.",
+        "Testing and implementation of new features.",
+        "POC of new technologies.",
+        "Bug fixing and maintenance of existing applications.",
+        "Architect and implementation of scalable and maintainable solutions using Java and associated technologies.",
+      ],
+      "tools": [
+        "AWS: S3, SQS, SNS, IAM, Route53, Api Gateway, DynamoDB, etc.",
+        "Node Js",
+        "React",
+        "Javascript",
+        "Typescript",
+        "Java",
+        "Flex",
+        "Postgresql",
+        "Gitlab CI",
+        "Jira",
+        "Confluence",
+        "Agile"
+      ]
+    },
+    {
+      "name": "Belatrix Software Factory",
+      "url": "https://www.belatrixsf.com",
+      "position": "Semi Senior Developer",
+      "dates": "January 2010 - January 2011",
+      "company_type": "Belatrix is a division of Globant. We have been a strategic partner for top companies, from innovative start-ups in Silicon Valley to well-known Fortune 100 companies, for the past 20 years. Recognized by leading industry analysts as one of the top providers of software engineering services, Belatrix uses a unique approach to software development. By combining deep Agile development expertise and Design Thinking, we deliver high-quality, engaging software experiences to our customers.",
+      "job_description": "Development, testing, implementation and maintenance of applications for the company and its clients.",
+      "tasks": [
+        "Design, development and testing of java services.",
+        "Bug fixing and maintenance of existing applications."        
+      ],
+      "tools": [
+        "Java",
+        "MySql",
+        "Gitlab CI",
+        "Jira",
+        "Confluence",
+        "Agile"
+      ]
+    }
+  ]
+}
