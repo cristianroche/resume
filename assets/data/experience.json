@@ -102,7 +102,7 @@
         "Testing and implementation of new features.",
         "POC of new technologies.",
         "Bug fixing and maintenance of existing applications.",
-        "Architect and implementation of scalable and maintainable solutions using Java and associated technologies.",
+        "Architect and implementation of scalable and maintainable solutions using Java and associated technologies."
       ],
       "tools": [
         "AWS: S3, SQS, SNS, IAM, Route53, Api Gateway, DynamoDB, etc.",
