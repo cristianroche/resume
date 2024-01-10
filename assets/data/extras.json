@@ -1,0 +1,81 @@
+{
+  "personal_skills": " Analytical thinking | Conceptual reasoning | Critical thinking | Time management | Organizational awareness | Vision focused on the business | Decision making | Customer orientation Flexibility | Ability to work under pressure | Tolerance to stress and/or frustration | Innovation and creativity | Leadership | Active listening | Conflict resolution | Strategic orientation | Assertiveness | Self-control | Motivation to achievement | Learning attitude and continuous improvement.",
+  "extras": [
+    {
+      "title": "Skills",
+      "list": [
+        "NodeJS",
+        "Javascript",
+        "Typescript",
+        "CSS",
+        "React",
+        "React Native",
+        "VueJS",
+        "NestJS",
+        "AWS Services",
+        "GCP Services",
+        "Docker: Dockerfiles / docker-compose",
+        "CI/CD: Gitlab-CI / Github Actions / Jenkins",
+        "Java",
+        "Flex",
+        "Bash",
+        "Linux",
+        "Terraform",
+        "Jenkins",
+        "Git",
+        "Kafka",
+        "Monorepos",
+        "Microservices",
+        "Restful APIs",
+        "Agile Methodologies",
+        "Shape Up Methodology"
+      ]
+    },
+    {
+      "title": "Languages",
+      "list": [
+        "English: Advanced",
+        "Spanish: Native"
+      ]
+    },
+    {
+      "title": "Trainings",
+      "list": [
+        "NestJS: The Complete Developer's Guide (2023)",
+        "Shape Up Methodology (2022)",
+        "React Native - The Practical Guide (2019)",
+        "React - The Complete Guide (2015)"
+      ]
+    },
+    {
+      "title": "Professional Skills",
+      "list": [
+        "Leadership and Team Management",
+        "Strategic Planning and Execution",
+        "Agile Methodologies (Scrum, Kanban)",
+        "Shape Up Methodology",
+        "Innovative Problem Solving",
+        "Effective Communication and Interpersonal Skills",
+        "Change Management and Adaptability",
+        "Conflict Resolution and Team Building",
+        "Technical Proficiency in Team Guidance",
+        "Innovative Problem Solving",
+        "Change Management and Adaptability",
+        "Crisis Management",
+        "Decision-Making under Pressure",
+        "Performance Management and Mentorship",
+        "Quality Assurance and Best Practices",
+        "Unit Testing and Test-Driven Development (TDD)",
+        "Cross-functional Collaboration",
+        "Problem Solving and Debugging",
+        "Code Review and Best Practices",
+        "Security Best Practices",
+        "Performance Optimization",
+        "Adaptability to Emerging Technologies",
+        "Effective Communication with Technical and Non-Technical Stakeholders",
+        "Culture and methodology of Full Stack development",
+        "Motivation and Empowerment of Team Members"
+      ]
+    }
+  ]
+}
